@@ -1,1 +1,2 @@
-# andriy_java_project
+# Залога Андрій 
+# ІВ-92
